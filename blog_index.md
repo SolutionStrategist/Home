@@ -1,3 +1,6 @@
+[Tech Blog](blog_index.md) | [Agile Service Management Tools](.\asm\index.md) | [Leadership](.\leadership\index.md) 
+
+
 Blog intro goes here
 
 <ul>
