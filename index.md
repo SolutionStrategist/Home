@@ -21,6 +21,5 @@ The thoughts and ideas here are my own. Take what you need and leave the rest.  
 Learn more [about me](aboutme.md). 
 
 
-
 Disclaimer:  Yes, I work for Microsoft. But I'm in love with my iPad, my Kindle and any other gadget I can get my hands on.  My true first love is PEOPLE.  
 
