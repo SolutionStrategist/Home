@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # **Changing IT Delivery: Agile Service Management**  
 ## By [Karuana Gatimu](http://linkedin.com/in/karuanagatimu)  
 
