@@ -1,6 +1,4 @@
----
-layout: default
----
+[Tech Blog](blog_index.md) | [Agile Service Management Tools](.\asm\index.md) | [Leadership](.\leadership\index.md) 
 
 # **Changing IT Delivery: Agile Service Management**  
 ## By [Karuana Gatimu](http://linkedin.com/in/karuanagatimu)  
