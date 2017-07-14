@@ -8,7 +8,7 @@ This site is dedicated to practical ideas for utilizing modern technology and tr
 
 Learn about three topics:
 
-- **Productivity and Collaboration blog**: Helping business people get value from Microsoft tech
+- [**Productivity and Collaboration blog**](blog_index.md): Helping business people get value from Microsoft tech
 - [**Implementing Agile Service Management**](.\asm\index.md): Guidance for IT and tech pros to change the way they deliver within their companies
 - **[Leadership how-to's](.\leadership\index.md)**: Steps to develop a diverse workforce for everyone
 
