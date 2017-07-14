@@ -1,6 +1,6 @@
-#_​This site is under construction_
+_This site is under construction_
 
-##**​​​​​Don't settle!**  
+**Don't settle!**  
 If the technology in your life, both at home and work, is not deriving more meaning for you then it's time for change.  
 
 This site is dedicated to practical ideas for utilizing modern technology.  Collaboration, mobility, social and business intelligence tools are only as strong as the strategy that brings them together in a beautiful experience that is meaningful to employees and management alike. 
