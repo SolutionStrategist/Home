@@ -13,3 +13,6 @@ Learn about three topics:
 - **[Leadership how-to's](.\leadership\index.md)**: Steps to develop a diverse workforce for everyone
 
 The thoughts and ideas here are my own. Take what you need and leave the rest.  Tell me what is and isn't working for you via [Twitter](https://twitter.com/karuana) or [LinkedIn](https://linkedin.com/in/karuanagatimu).  I'm always happy to hear from you. 
+
+
+Learn more [about me](aboutme.md). 
