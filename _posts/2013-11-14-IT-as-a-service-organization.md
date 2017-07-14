@@ -2,7 +2,8 @@
 layout: post
 title:  "IT as a Service Organization"
 date:   2013-11-14 16:16:01 -0600
-categories: Strategy People
+category: Strategy
+tags: People Change 
 ---
 
 Never before have I been so excited to be in the SharePoint and collaboration space.  Not because I now work for Microsoft as their Director of Strategy & adoption in the social collaboration & app spaces for Microsoft IT and not because of the release of SharePoint 2013 or O365, both things for me being worth of excitement.  What I'm really enthusiastic about is the evolution of the portal experience and the transition of IT from a project & commodity based business to a service organization.  
