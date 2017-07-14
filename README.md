@@ -8,7 +8,7 @@ This site is dedicated to practical ideas for utilizing modern technology and tr
 This site is broken into three separate topics:
 
 - **Productivity and Collaboration blog**: Helping business people get value from Microsoft tech
-- [[**Implementing Agile Service Management**|.\asm\index.md]]: Guidance for IT and tech pros to change the way they deliver within their companies
+- [**Implementing Agile Service Management**](.\asm\index.md): Guidance for IT and tech pros to change the way they deliver within their companies
 - **[Leadership how-to's](https://github.com/SolutionStrategist/Leadership/wiki)**: Steps to develop a diverse workforce for everyone
 
 The thoughts and ideas here are my own. Take what you need and leave the rest.  Tell me what is and isn't working for you via [Twitter](https://twitter.com/karuana) or [LinkedIn](https://linkedin.com/in/karuanagatimu).  I'm always happy to hear from you. 
