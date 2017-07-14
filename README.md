@@ -1,9 +1,7 @@
-[navbar]Site Sections
-***
 * [Home](.\readme.md)
  * [Tech Blog](blog_index.md)
  * [Agile Service Management Tools](.\asm\index.md)
- * [Leadership](.\leadership\index.md)[/navbar]
+ * [Leadership](.\leadership\index.md)
 
 _This site is under construction_
 
